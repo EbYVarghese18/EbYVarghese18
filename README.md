@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ebin Varghese
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and devops
+- 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on python projects
 - 📫 Email: ebyblr2k18@gmail.com
 
