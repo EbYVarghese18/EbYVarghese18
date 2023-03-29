@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=DevOps%20%20🤠&width=1600&height=600)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=DevOps%20%20🤠&width=2000&height=600)
 
 <h1 align="center">Hi 👋, I'm Ebin Varghese</h1>
 <h3 align="center">A passionate devops engineer from India</h3>
