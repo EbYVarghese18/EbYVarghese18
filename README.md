@@ -7,6 +7,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EbYVarghese18)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
+
 
 <!---
 EbYVarghese18/EbYVarghese18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
