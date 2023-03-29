@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **devops projects**
 
-- 👨‍💻 My portfoli website: [www.itsmeeby.in](www.itsmeeby.in)
+- 👨‍💻 My portfolio website: https://itsmeeby.in
 
 - 💬 Ask me about **Anything**
 
