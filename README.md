@@ -17,7 +17,7 @@
 
 - 📫 Reach me on **ebyblr2k18@gmail.com**
 
-- <p style="font-size:100px">⚡ **Have you tried turning it off and on again?**&#128540;</p>
+- <p style="font-size:100px">⚡ Have you tried turning it off and on again? &#128540;</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
