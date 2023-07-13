@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS Services**
 
-- 👯 I’m looking to collaborate on **devops projects**
+- 👯 I’m looking to collaborate on **DevOps Projects**
 
 - 👨‍💻 My portfolio website: https://itsmeeby.in
 
