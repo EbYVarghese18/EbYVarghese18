@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS Services**
 
 - 👯 I’m looking to collaborate on **devops projects**
 
 - 👨‍💻 My portfolio website: https://itsmeeby.in
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **DevOps**
 
 - 📫 Reach me on **ebyblr2k18@gmail.com**
 
